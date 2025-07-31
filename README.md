@@ -1,1 +1,2 @@
-# sifreolustur.github.io
+Bir şifre oluşturucu websitesi tasarladım.
+
